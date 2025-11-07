@@ -1,0 +1,16 @@
+# Ignore environment files
+.env
+.env.*
+
+# Ignore virtual environment folder
+venv/
+.venv/
+env/
+ENV/
+
+# (optional) Ignore other Python build or cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
